@@ -1,7 +1,7 @@
 {
   "name": "VAJIRA-MD",
   "description": "QUEEN-DEW has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
+  "logo": "https://telegra.ph/file/4cf337052c09eec06f3e8.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
   "success_url": "/",
 
@@ -33,7 +33,7 @@
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegra.ph/file/4cf337052c09eec06f3e8.jpg"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
